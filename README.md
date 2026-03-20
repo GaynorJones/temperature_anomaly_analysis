@@ -73,6 +73,13 @@ Key Insight
 
 Temperature anomalies provide a clearer view of climate change than raw temperatures, showing how much the Earth is warming relative to a historical baseline.
 
+Updates
+
+## Update Mar 20th 2026
+- Added anomaly detection using standard deviation
+- Highlighted extreme temperature years
+- Introduced decadal averaging for trend smoothing
+
 👤 Author
 
 Gaynor Jones
