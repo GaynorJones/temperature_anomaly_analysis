@@ -1,5 +1,7 @@
 Global Temperature Anomaly Analysis (Python)
 
+Part of a growing portfolio in environmental data analysis using Python.
+
 ## Project Overview
 
 This project analyses global temperature anomaly data to explore long-term climate trends using Python.
@@ -140,3 +142,7 @@ Future work could include seasonal analysis, regional comparisons, or applying r
 👤 Author
 
 Gaynor Jones
+
+## Related Projects
+
+- [River Analysis Pipeline (Python)](https://github.com/GaynorJones/River-Analysis-Pipeline-Python)
