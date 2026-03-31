@@ -143,3 +143,6 @@ Future work could include seasonal analysis, regional comparisons, or applying r
 
 Gaynor Jones
 
+## Related Projects
+
+- [River Analysis Pipeline (Python)](https://github.com/GaynorJones/River-Analysis-Pipeline-Python)
