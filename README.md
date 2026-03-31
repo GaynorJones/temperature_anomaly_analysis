@@ -145,4 +145,4 @@ Gaynor Jones
 
 ## Related Projects
 
-- [Global Temperature Anomaly Analysis (Python)](https://github.com/GaynorJones/River_Analysis_Pipeline_Python)
+- [River Analysis Pipeline (Python)](https://github.com/GaynorJones/River_Analysis_Pipeline_Python)
