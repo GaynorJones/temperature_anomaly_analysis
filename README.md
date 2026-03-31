@@ -1,10 +1,20 @@
 Global Temperature Anomaly Analysis (Python)
 
-Project Overview
+## Project Overview
 
-This project analyses global temperature anomaly data using Python.
+This project analyses global temperature anomaly data to explore long-term climate trends using Python.
 
-The dataset contains yearly temperature differences (anomalies) relative to a baseline average (1951–1980), allowing us to identify long-term climate trends.
+The workflow includes:
+- Data cleaning and validation (pure Python and pandas)
+- Statistical analysis (mean, standard deviation, extreme values)
+- Visualisation (line plots, scatter plots, decadal averages)
+
+Key findings:
+- A clear long-term warming trend, accelerating after ~1980
+- Short-term yearly variability, but strong long-term consistency
+- Increasing frequency of extreme anomaly years in recent decades
+
+This project demonstrates how simple data analysis techniques can reveal meaningful environmental patterns from real-world datasets.
 
 Features
 
